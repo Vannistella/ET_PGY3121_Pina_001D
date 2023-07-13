@@ -1,4 +1,4 @@
-# Encargo-3-Duoc
+# ET-Duoc
 Encargo 3 Duoc Giovanni Piña
 
 requerimientos:
